@@ -1,2 +1,2 @@
 # hello-world
-Some programming exercise
+Some programming exercises
